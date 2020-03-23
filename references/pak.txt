@@ -1,0 +1,51 @@
+PAK Scholarly Articles for Research
+Tom Daniel
+
+Robert full
+Neural activity in the central complex of the cockroach brain is linked to turning behaviors 
+Wired up to cockroach brain to observe neural activity
+Stimulated antennae to make cockroach turn
+https://jeb.biologists.org/content/216/6/992
+
+Simon Sponberg
+
+Jean Mongeau
+Locomotion- and mechanics-mediated tactile sensing: antenna reconfiguration simplifies control during high-speed navigation in cockroaches
+When the tip of the antenna is projected backward, the animals maintain greater body-to-wall distance with fewer body collisions and less leg–wall contact than when the tip is projecting forward
+Tested natural and artificial mechanosensory hairs at the tip of the antenna; both  increased an antenna's probability of switching state
+https://jeb.biologists.org/content/216/24/4530
+
+Shai Revzen
+The neuromechanics of insect locomotion: How cockroaches run fast and stably without much thought
+Mathematical modeling? I’m having a hard time understanding this journal
+https://pdfs.semanticscholar.org/0479/660d2057a2ca7ac1d24a5061fcd731364ba8.pdf
+
+Ty Hedrick
+
+Hirotaka Sato, Christopher W. Berry, Yoav Peeri, Emen Baghoomian, Brendan E. Casey, Gabriel Lavella, John M. VandenBrooks, Jon F. Harrison and Michel M. Maharbiz
+Remote radio control of insect flight
+demonstrated the remote control of insects in free flight via an implantable radio-equipped miniature neural stimulating system
+VERY RELEVANT BUT THEY USED BEATLES
+https://www.frontiersin.org/articles/10.3389/neuro.07.024.2009/full
+
+Thomas E Moore, Selden B Crary, Daniel E Koditschek, Todd A Conklin
+Directed Locomotion in Cockroaches: BioBots
+Electrically stimulated antennae of Madagascar Hissing Cockroach to make it turn or followed prescribed paths
+https://www.zobodat.at/pdf/ActaEntSlov_6_0071-0078.pdf
+
+R. Holzer, I. Shimoyama
+Locomotion control of a bio-robotic system via electric stimulation
+Electrically stimulates Periplaneta Americana to observe reactions
+https://ieeexplore.ieee.org/document/656559
+
+Alper Bozkurt, Amit Lal, Robert Gilmour
+Aerial and terrestrial locomotion control of lift assisted insect biobots
+Electrically stimulates moths to steer wirelessly
+https://ieeexplore.ieee.org/document/5334433
+
+Whitmire E, Latif T, Bozkurt A.
+Kinect-based system for automated control of terrestrial insect biobots
+Uses neural stimulation techniques in order to control the motion of Madagascar hissing cockroaches
+https://ieeexplore.ieee.org/document/6609789/
+
+Link to backyard brains robo surgery: https://backyardbrains.com/experiments/roboRoachSurgery
